@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Resturant_Management.Models.ServiceMan>
+
+@{
+    ViewBag.Title = "ServiceMan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align: center">ServiceMan</h2>
+
+<div>
+<table class="table table-bordered table-hover">
+    
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Phone-No</th>
+        <th>UPDATE</th>
+    </tr>
+
+    </thead>
+    
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ServiceManId</td>
+            <td>@item.ServiceManName</td>
+            <td>@item.ServiceAddress </td>
+            <td>@item.ServiceManCellPhoneNo </td>
+            <td style="text-align: center;font-size: 20px">@Html.ActionLink("+","EditServiceMan","ServiceMan",new { id=item.ServiceManId},"") </td>
+
+
+        </tr>
+    }
+
+    </tbody>
+
+</table>
+</div>

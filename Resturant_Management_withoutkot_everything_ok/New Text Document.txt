@@ -1,0 +1,3 @@
+select ProductName,sum(Quantity) from OrderedItems
+Group By ProductName
+order by sum(Quantity) Desc

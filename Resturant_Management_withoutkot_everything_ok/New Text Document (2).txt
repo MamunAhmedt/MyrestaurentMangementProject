@@ -1,0 +1,21 @@
+  Show x=new Show();
+            List<Show>List=new List<Show>();
+            
+            _Context=new ApplicationDbContext();
+            float CASCash = _Context.Reciepts.Where(s => s.PaymentMode == "Cash").Sum(s => s.NetAmount);
+            x.Name = "Cash";
+            x.Amount = CASCash;
+            List.Add(x);
+            float CRDCash = _Context.Reciepts.Where(s => s.PaymentMode == "Card").Sum(s => s.NetAmount);
+            x.Name = "Cash";
+            x.Amount = CRDCash;
+            List.Add(x);
+            float BKSCash = _Context.Reciepts.Where(s => s.PaymentMode == "Bkash").Sum(s => s.NetAmount);
+            x.Name = "Cash";
+            x.Amount = BKSCash;
+            List.Add(x);
+            float RKTCash = _Context.Reciepts.Where(s => s.PaymentMode == "Rocket").Sum(s => s.NetAmount);
+            x.Name = "Cash";
+            x.Amount = RKTCash;
+            List.Add(x);
+            return View(List);

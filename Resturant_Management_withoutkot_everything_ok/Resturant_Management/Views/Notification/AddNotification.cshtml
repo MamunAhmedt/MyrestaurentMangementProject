@@ -1,0 +1,60 @@
+﻿@model Resturant_Management.Models.Notification
+@{
+    ViewBag.Title = "AddNotification";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddNotification</h2>
+
+
+<div class="container-fluid">
+    
+    <form>
+        
+        <div class="form-group">
+            
+            @Html.LabelFor(s=>s.NotificationString)
+            <input type="text" id="NotificationString" class="form-control"/>
+            <span class="error" id="StringError">This Field Can,t be Empty</span>
+
+
+        </div>
+
+        <div class="form-group">
+
+            @Html.LabelFor(s=>s.ShowingDate) :
+            <input type="date" class="form-control" id="DatePicker"/>
+            <span class="error" id="DateError"> Valid Date Is Required</span>
+
+
+        </div>
+
+
+    </form>
+    
+    <div>
+            
+        <input type="button" value="Save" class="btn btn-success" onclick="SaveNotification()"/>
+    </div>
+    
+    
+    
+    
+
+</div>
+
+
+<script src="~/Scripts/myJavaScripts.js"></script>
+
+<style>
+    span.error {
+        display: block;
+        visibility: hidden;
+        color: red;
+        font-size: 90%;
+    }
+
+    tr.error {
+        background-color: rgba(255,0,0,0.35);
+    }
+</style>

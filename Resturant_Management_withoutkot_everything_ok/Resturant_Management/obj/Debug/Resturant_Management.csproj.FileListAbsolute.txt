@@ -1,0 +1,946 @@
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\User\documents\visual studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\MamunAhmed\Downloads\Compressed\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\MamunAhmed\Desktop\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\User\Desktop\WingsWSift\Resturant_Management-20190901T063853Z-001\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\Mamun\Documents\Visual Studio 2013\Projects\Resturant_Management04-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Users\User\Desktop\Resturant_Management08-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedprecashtable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedNotifications.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade2.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate2.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate3.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedexpensetable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedExpenseTable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddedPurchasetable.resources
+C:\Users\User\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addexpensetable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedprecashtable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedNotifications.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade2.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate2.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate3.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedexpensetable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedExpenseTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddedPurchasetable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addexpensetable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedrecieptModel.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.Common.dll
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymodetoreciepttale.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethod.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable1.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedTotatalsOfDifferentPaymentmethodsTabeleTodatabase.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrocket.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedidoftoalpaymodetoINT.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.remmovedtalePaymentAccountsBallances.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemovedtableTotatalsOfDifferentPaymentmethod.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedFundTable.resources
+C:\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedprecashtable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedNotifications.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade2.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate2.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate3.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedexpensetable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedExpenseTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddedPurchasetable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addexpensetable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedrecieptModel.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymodetoreciepttale.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethod.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable1.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedTotatalsOfDifferentPaymentmethodsTabeleTodatabase.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrocket.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedidoftoalpaymodetoINT.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.remmovedtalePaymentAccountsBallances.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemovedtableTotatalsOfDifferentPaymentmethod.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedFundTable.resources
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\WingsSoft\Desktop\Resturant_Management09-9-2019\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Owin.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\WebGrease.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedprecashtable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedNotifications.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade2.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate2.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate3.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedexpensetable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedExpenseTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddedPurchasetable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addexpensetable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedrecieptModel.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymodetoreciepttale.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethod.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable1.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedTotatalsOfDifferentPaymentmethodsTabeleTodatabase.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrocket.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedidoftoalpaymodetoINT.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.remmovedtalePaymentAccountsBallances.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemovedtableTotatalsOfDifferentPaymentmethod.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedFundTable.resources
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\Salman\Documents\Visual Studio 2013\Projects\Resturant_Management\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Resturant_Management.dll.config
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Resturant_Management.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Resturant_Management.pdb
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Antlr3.Runtime.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\EntityFramework.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\EntityFramework.SqlServer.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Newtonsoft.Json.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Owin.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Helpers.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Mvc.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Optimization.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Razor.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\WebGrease.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Helpers.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Mvc.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Optimization.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.Razor.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Antlr3.Runtime.pdb
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Newtonsoft.Json.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\EntityFramework.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\EntityFramework.SqlServer.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddItemTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.adddiscountratetoitemtable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addeddataannotationstoitem.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.madeunitpricenullable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNo.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.added_serviceman_bill_tableNotodatabase.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtableidtoTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changepktoTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.deletedtablestable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedtablestableagain.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Addbilltable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.Dropbilltableagain.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addsavetable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedsaveOrder.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemoveaddedRecieptTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedRecieptTableagain.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptstablesecondtime.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrecieptstableagain.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedrecieptasdatetimnamematchedwithtype.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedreciept.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedprecashtable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedNotifications.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedServicemanTableForUpgrade2.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate2.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedservicemantableafterfirstupdate3.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedexpensetable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.removedExpenseTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.AddedPurchasetable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addexpensetable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedrecieptModel.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymodetoreciepttale.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethod.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedpaymentmethodaccountstable1.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedTotatalsOfDifferentPaymentmethodsTabeleTodatabase.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedrocket.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.changedidoftoalpaymodetoINT.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.remmovedtalePaymentAccountsBallances.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.RemovedtableTotatalsOfDifferentPaymentmethod.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedFundTable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.csproj.GenerateResource.Cache
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.dll
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.pdb
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedholdingtable.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.Migrations.addedholdingtables.resources
+C:\Users\WingsSoft\Downloads\Resturant_Management_withoutkot_everything_ok (1)\Resturant_Management_withoutkot_everything_ok\Resturant_Management\obj\Debug\Resturant_Management.csprojResolveAssemblyReference.cache

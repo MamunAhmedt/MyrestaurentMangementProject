@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Resturant_Management.ViewModel.Show>
+
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Show</h2>
+
+@foreach (var x in Model)
+{
+    <p>@x.Name</p>
+    <p>@x.Amount</p>
+}

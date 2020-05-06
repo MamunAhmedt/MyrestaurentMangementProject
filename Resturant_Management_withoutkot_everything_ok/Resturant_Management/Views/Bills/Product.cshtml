@@ -1,0 +1,41 @@
+﻿@using Resturant_Management.Models
+@model IEnumerable<Resturant_Management.Models.Item>
+
+
+@{
+    ViewBag.Title = "Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product</h2>
+
+<table class="table table-bordered table-hover">
+    
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>UNIT-PRICE</th>
+            <th>DiscountRate</th>
+            <th>UPDATE</th>
+        </tr>
+
+    </thead>
+    
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ItemId</td>
+                <td>@item.ItemName </td>
+                <td>@item.ItemUnitPrice </td>
+                <td>@item.DiscountRateOnUnitPrice.DiscountOnUnitPrice  % </td>
+                <td style="text-align: center;font-size: 20px">@Html.ActionLink("+","EditItem","Bills",new { id=item.ItemId},"") </td>
+
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

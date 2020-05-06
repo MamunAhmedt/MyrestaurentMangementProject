@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+	<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+
+			/* Create three equal columns that floats next to each other */
+			.column {
+				float:inside;
+				width: 33.33%;
+				padding: 10px;
+				height: 400px; /* Should be removed. Only for demonstration */
+				 
+			}
+
+			/* Clear floats after the columns */
+			.row:after {
+				content: "";
+				display: table;
+				clear: both;
+			}
+		</style>
+	</head>
+	<body>
+
+	<h2 style="text-align: center" >Payment Master </h2>
+	<span>&ensp;</span>
+
+		<div class="navbar">
+			<input type="button" name="Add/Remove PaymentMethod" value="AddNewPaymentMethod" style="padding: 10px 20px;background-color: #bbbbbb" class="btn" />
+			<input type="button" name="TransferFund" value="TransferFund" style="padding: 10px 20px;background-color: #bbbbbb" class="btn" />
+			<input type="button" name="DisplayFunds" value="DisplayFunds" style="padding: 10px 20px;background-color: #bbbbbb" class="btn" />
+			&nbsp;
+		</div>
+
+	<div class="row">
+		<div class="column" id="FisrtColumn" style="background-color: #bbbbbb">
+			<div class="navbar form-group">
+				<table>
+					<input type="button" name="AddMethod" value="Add" style="padding: 10px 20px; background-color: #008000" class="btn form-control" onclick="NavbarAdd(this)" />
+					<input type="button" name="RemoveMethod" value="Remove" style="padding: 10px 20px; background-color: #008000" class="btn form-control" onclick="Remove(this)" />
+					<div id="FirstColumnContent"class="form-control"></div>
+		  
+				</table>
+			  
+
+
+				
+				<input type="button" name="Save" value="Save" style="padding: 10px 15px; margin-top: 80%; margin-left: 35%; background-color: #008000" class="btn savebutton" id="SaveButton"/>
+			</div>
+
+
+		</div>
+		<div class="column" style="background-color: gray">
+			<table class="table table-responsive">
+				<tr>
+					<th>From</th>
+					<th>TO</th>
+					<th>Amount</th>
+				</tr>
+				
+			   
+				<tr>
+					<td><select id="TransferFrom"> 
+						<option>Select</option></select></td>
+					<td><select id="TransferTo">
+						<option>Select</option>
+					</select></td>
+					<td>
+						<input type="text" size="10" id="AmountBox" />
+						<span class="Error" style="visibility: hidden;color: red">Invalid Amount</span>
+					</td>
+					
+				</tr>
+				
+
+			</table>
+			
+			<input type="submit" value="Transfer" id="TransferFund" class="btn-danger" style="margin-top: 60%; margin-left: 30%;padding:10px 40px 10px 40px">
+
+		</div>
+
+		<div class="column" style="background-color: darkgray">
+			<table class="table table-responsive">
+				<tr>
+					<td><input type="button" value="CASH" style="background-color: blueviolet" /></td>
+					<td><input type="text" id="CashAmount" value=" "> </td>
+				</tr>
+				
+				<tr>
+					<td><input type="button" value="CARD" style="background-color: blueviolet" /></td>
+					<td><input type="text"  id="CardAmount" value="" /> </td>
+				</tr>
+				<tr>
+					<td><input type="button" value="BKASH" style="background-color: blueviolet" /></td>
+					<td><input type="text" readonly id="BkashAmount" value=" " /> </td>
+				</tr>
+				<tr>
+					<td><input type="button" value="Rocket" style="background-color: blueviolet" /></td>
+					<td><input type="text" readonly id="RocketAmount" value=" " /> </td>
+				</tr>
+				
+				<tr>
+					<td> <input type="button" value="Refresh" class="btn-default" style="margin-top: 60%; margin-left: 50%;padding:10px 40px 10px 40px"  id="AccountRefresh" onclick="loadamounts()"/></td>
+				</tr>
+			   
+				
+			</table>
+
+
+		</div>
+		
+	</div>
+	
+		
+
+
+
+   
+	
+
+
+	</body>
+	</html>
+
+
+
+
+<script src="~/Scripts/myJavaScripts.js"></script>
+<script src="~/Scripts/MasterPaymentPage.js"></script>

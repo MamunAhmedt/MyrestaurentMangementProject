@@ -1,0 +1,165 @@
+﻿
+@{
+    ViewBag.Title = "Expense";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Expense</h2>
+
+<div class="container">
+
+    <div class="Master">
+
+
+        
+        <table class="table table-responsive">
+
+            <tr>
+                <td>Date</td>
+                <td>
+                    <input type="date" id="date" class="form-control" />
+                    <span id="DateError" class="error">Valid Date Is Required</span>
+
+                </td>
+
+            </tr>
+
+
+        </table>
+
+
+    </div>
+
+
+
+    <div class="Details">
+        <h2>Expense Details</h2>
+        <div class="container">
+            <table class="table table-responsive">
+
+                <tr>
+                 
+                    <th>Category</th>
+                    <th>Amount</th>
+                    <th>Description</th>
+                 
+                    
+                    
+
+
+                </tr>
+
+                <tr class="mycintainer" id="mainrow">
+                  
+
+                    <td class="form-group">
+
+                        <select id="Category" class="form-control">
+                            <option value="1">Utility</option>
+                            <option value="2">Rent</option>
+                            <option value="3">Salary</option>
+                            <option value="4">Salary With Bonus</option>
+                            <option value="5">EMI</option>
+                            <option value="6">Advertisement</option>
+
+                        </select>
+
+                        <span class="error">Please Select A Category</span>
+
+                    </td>
+
+                    <td>
+                        <input type="text" id="Amount" value=" " class="Amount form-control" />
+                        <span class="error">Insert Valid Amount</span>
+
+                    </td>
+
+                  
+
+
+
+
+                    <td>
+                        <input type="text" id="Description" value="" class="Description form-control">
+                        <span class="error">Description is Empty</span>
+                    </td>
+
+                    
+
+
+
+
+                    <td>
+                        <input type="button" id="AddPurchaseditem" value="Add" class="btn btn-success" />
+                    </td>
+
+
+
+
+                </tr>
+
+
+
+            </table>
+        </div>
+    </div>
+
+    <div id="Expense">
+        <table class="table table-responsive" id="ExpenseItemList">
+
+            <thead>
+                <tr>
+
+                    <th>Category</th>
+                    <th>Amount</th>
+                    <th>Description</th>
+                   
+                    <th>-</th>
+                </tr>
+
+            </thead>
+            <tbody></tbody>
+
+        </table>
+
+        <span id="OrderItemsError" class="error" style="color:red"></span>
+
+
+
+    </div>
+
+
+
+    <div style="padding:10px;text-align:right">
+
+        <label>Grand-Total</label>
+    </div>
+    <div style="padding: 10px 0px;text-align:right">
+        <input type="text" id="TotalAmount" class="TotalAmount" value="" style="text-align: center" />
+    </div>
+
+
+
+
+
+
+
+    <div style="padding: 10px 0;text-align:right">
+
+        <input type="button" id="Submit" value="Save list" class="btn" style="padding: 10px 20px" />
+    </div>
+
+</div>
+<script src="~/Scripts/expense.js"></script>
+<style>
+    span.error {
+        display: block;
+        visibility: hidden;
+        color: red;
+        font-size: 90%;
+    }
+
+    tr.error {
+        background-color: rgba(255,0,0,0.35);
+    }
+</style>

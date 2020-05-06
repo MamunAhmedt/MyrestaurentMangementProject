@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Resturant_Management.Models.Reciept>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+
+<table class="table table-bordered table-hover">
+
+<thead>
+    <tr>
+        <th>RID</th>
+        <th>Rno</th>
+        <th>SBID</th>
+        <th>TBNO</th>
+        <th>Time</th>
+    </tr>
+
+</thead>
+
+<tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.RecieptId</td>
+            <td>@item.RecieptNo</td>
+            <td>@item.ServiceBoyid </td>
+            <td>@item.TableNo</td>
+            <td>@item.TimeDate</td>
+            
+
+
+
+        </tr>
+    }
+
+</tbody>
+
+</table>
+

@@ -1,0 +1,371 @@
+﻿@model Resturant_Management.Models.Purchase
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+
+
+
+<div class="container">
+
+    <div class="Master">
+
+
+        <h2>Order</h2>
+        <table class="table table-responsive">
+
+            <tr>
+                <td>Order_Date</td>
+                <td>
+                    <input type="date" id="date" class="form-control"/>
+
+                </td>
+
+            </tr>
+
+
+        </table>
+
+
+    </div>
+
+
+
+    <div class="Details">
+        <h2>Oder-Items</h2>
+        <div class="container">
+            <table class="table table-responsive">
+
+                <tr>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Quantity</th>
+                    <th>Units</th>
+                    <th>Unit-Price</th>
+                    <th>Total Amount</th>
+                   
+
+                </tr>
+
+                <tr class="mycintainer" id="mainrow">
+                    <td>
+                        <input type="text" id="ItemName" value=" " class="Name form-control" />
+                        <span class="error">Insert Valid Quantity</span>
+
+                    </td>
+                    
+                    <td class="form-group">
+
+                        <select id="Category" class="form-control">
+                                <option value="1">Restaurants-Food</option>
+                                <option value="2">Restaurants-Expense</option>
+                                <option value="3">Staff-Food</option>
+
+                            </select>
+ 
+                    </td>
+
+                    <td>
+                        <input type="text" id="Quantity" value=" " class="quantity form-control" />
+                        <span class="error">Insert Valid Quantity</span>
+
+                    </td>
+                    
+                    <td class="form-group">
+  
+                            <select id="Unit" class="form-control">
+                                <option value="1">KG</option>
+                                <option value="2">Gram</option>
+                                <option value="3">Liter</option>
+                                <option value="4">Piece</option>
+
+                            </select>
+                    </td>
+
+
+                   
+
+                    <td>
+                        <input type="text" id="QuantityPurchaseUnitPrice" value=" " class="UnitPrice form-control" onkeyup="CalculateNetAmountforPuchasedItem()" />
+                    </td>
+
+                    <td>
+                        <input type="text" id="PurchaseGrandAmount" value=" " readonly class="Total form-control" />
+                    </td>
+                    
+                 
+
+
+                    <td>
+                        <input type="button" id="AddPurchaseditem" value="Add" class="btn btn-success" />
+                    </td>
+
+
+
+
+                </tr>
+
+
+
+            </table>
+        </div>
+    </div>
+
+    <div id="Expense">
+        <table class="table table-responsive" id="ExpenseItemList">
+
+            <thead>
+                <tr>
+                    
+                    <th>Product</th>
+                    <th>Category</th>
+                    <th>Quantity</th>
+                    <th>Unit <b>%</b></th>
+                    <th>Unit Price</th>
+                    <th>Total</th>
+                    <th>-</th>
+                </tr>
+
+            </thead>
+            <tbody></tbody>
+
+        </table>
+
+        <span id="OrderItemsError" style="color:red"></span>
+
+
+
+    </div>
+
+
+
+    <div style="padding:10px;text-align:right">
+
+        <label>Grand-Total</label>
+    </div>
+    <div style="padding: 10px 0px;text-align:right">
+        <input type="text" id="TotalAmount" class="TotalAmount" value="" style="text-align: center" />
+    </div>
+
+
+
+
+
+
+
+    <div style="padding: 10px 0;text-align:right">
+
+        <input id="Submit" type="button" value="Save" class="btn btn-warning" style="padding: 10px 20px" />
+    </div>
+
+</div>
+<script src="~/Scripts/site.js"></script>
+<style>
+    span.error {
+        display: block;
+        visibility: hidden;
+        color: red;
+        font-size: 90%;
+    }
+
+    tr.error {
+        background-color: rgba(255,0,0,0.35);
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Purchase</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.PurchaseDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="date" id="PurchaseDate" class="form-control"/>
+                    <span class="field-validation-error"></span>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+
+
+
+                        @{
+
+
+
+                            List<SelectListItem> category = new List<SelectListItem>();
+                            category.Add(new SelectListItem
+                            {
+                                Text = "Restaurants-Food",
+                                Value = "Restaurants-Food"
+                            });
+                            category.Add(new SelectListItem
+                            {
+                                Text = "Restaurants-Expense",
+                                Value = "Restaurants-Expense",
+
+                            });
+                            category.Add(new SelectListItem
+                            {
+                                Text = "Staff-Food",
+                                Value = "Staff-Food"
+                            });
+
+
+
+
+
+
+                            @Html.DropDownList("Category", category,"Select-category",new {@class = "form-control"})
+                            ;
+
+                        }
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Quantity, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="text" id="Quantity" class="form-control" onkeyup="" />
+                    <span class="field-validation-error"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Units, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+
+
+                        @{
+
+
+
+                            List<SelectListItem> listItems = new List<SelectListItem>();
+                            listItems.Add(new SelectListItem
+                            {
+                                Text = "KG",
+                                Value = "KG"
+                            });
+                            listItems.Add(new SelectListItem
+                            {
+                                Text = "Gram",
+                                Value = "Gram",
+
+                            });
+                            listItems.Add(new SelectListItem
+                            {
+                                Text = "Liter",
+                                Value = "Liter"
+                            });
+
+                            listItems.Add(new SelectListItem
+                            {
+                                Text = "Piece",
+                                Value = "piece"
+                            });
+
+
+
+
+                            @Html.DropDownList("Unit", listItems,"Select-Unit",new {@class = "form-control"})
+                            ;
+
+                        }
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.UnitPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+
+                        <input type="text" id="UnitPrice" class="form-control" onkeyup="CalculateNetAmount()" />
+                        <span class="field-validation-error"></span>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NetAmount, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="text" id="PurchaseNetAmount" class="form-control"/>
+                    <span class="field-validation-error"></span>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.GrandTotal, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="text" id="PurchaseGrandAmount" class="form-control"/>
+                    <span class="field-validation-error"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="button" value="Add" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+    <script src="~/Scripts/myJavaScripts.js"></script>
+
+
+*@

@@ -1,0 +1,264 @@
+﻿@model Resturant_Management.Models.Reciept
+
+@{
+    ViewBag.Title = "RecieptPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="float-right d-inline" style="margin-left:150%; height: 150px; width:40%;">
+
+    <h3 style="text-align:center">Holding-Table</h3>
+    <table class="table" id="HoldingItems">
+        <tr>
+
+        </tr>
+        
+   
+    </table>
+
+
+</div>
+
+<h2 style="text-align:center">RecieptPage</h2>
+
+<div class="container">
+   
+
+<div class="container">
+
+
+<div class="Master">
+
+
+    <h2 class="text-info">Order</h2>
+    <table class="table table-responsive">
+
+        <tr>
+            <td>Order_No</td>
+            <td>
+                <input type="text" class="form-control" readonly id="OrderNo" value=@Model.RecieptNo />
+
+            </td>
+
+            <td>Order_Date</td>
+            <td>
+                <input type="text" class="form-control" readonly id="OrderDate" value=@Model.TimeDate />
+
+            </td>
+
+            <td>
+                <input type="button" class="form-control" id="NewOrder" value=New-Order style="background-color: red; margin-left: 80%; margin-top: 40%"/>
+
+            </td>
+
+
+
+        </tr>
+
+
+
+
+
+
+        <tr>
+            <td>Service-Man</td>
+            <td>
+                <select id="ServiceBoy" class="serviceboy form-control">
+                    <option>select </option>
+                </select>
+                <span class="error">select serviceman</span>
+
+            </td>
+
+
+
+            <td>Table-NO</td>
+            <td>
+                <select id="TableNo" class="TableNo form-control">
+                    <option>select </option>
+                </select>
+
+                <span class="error">select Table</span>
+
+            </td>
+
+        </tr>
+
+
+    </table>
+
+
+</div>
+
+
+
+<div class="Details">
+    <h2>Oder-Items</h2>
+    <div class="container">
+        <table class="table table-responsive">
+
+            <tr>
+                <th>Item-Name</th>
+                <th>Quantity</th>
+                <th>DiscountRate %</th>
+                <th>Unit-Price</th>
+                <th>Total Amount</th>
+
+            </tr>
+
+            <tr class="mycintainer" id="mainrow">
+                <td>
+                    <select id="product" class="pc form-control" onchange="LoadUnitPrice(this)">
+                        <option>select </option>
+                    </select>
+                    <span class="error">select product</span>
+
+                </td>
+
+                <td>
+                    <input type="text" id="Quantity" value=" " class="quantity form-control" onkeyup="CalCulateTotal(value)"/>
+                    <span class="error">Insert Valid Quantity</span>
+
+                </td>
+
+
+                <td>
+                    <input type="text" id="DiscountRate" value=" " class="DiscountRate form-control" readonly/>
+
+                </td>
+
+                <td>
+                    <input type="text" id="UnitPrice" value=" " readonly class="UnitPrice form-control"/>
+                </td>
+
+                <td>
+                    <input type="text" id="Total" value=" " readonly class="Total form-control"/>
+                </td>
+
+
+                <td>
+                    <input type="button" id="Add" value="Add" class="btn btn-success"/>
+                </td>
+
+
+
+
+            </tr>
+
+
+
+        </table>
+    </div>
+</div>
+
+<div id="Orderitems">
+    <table class="table table-responsive" id="orderdetailsItems">
+
+        <thead>
+        <tr>
+            <th>ProductId</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>DiscountRate <b>%</b></th>
+            <th>Unit Price</th>
+            <th>Total</th>
+            <th>-</th>
+        </tr>
+
+        </thead>
+        <tbody></tbody>
+
+    </table>
+
+    <span id="OrderItemsError" style="color: red"></span>
+
+
+
+</div>
+
+
+
+<div style="padding: 10px; text-align: right">
+
+    <label>Grand-Total</label>
+</div>
+<div style="padding: 10px 0px; text-align: right">
+    <input type="text" id="TotalAmount" class="TotalAmount" value="" style="text-align: center"/>
+</div>
+
+
+
+
+
+
+
+<div style="padding: 10px 0; text-align: right">
+
+    <input id="Submit" type="button" value="Save Order" class="btn btn-warning" style="padding: 10px 20px"/>
+    @*<input type="button" value="Kot-Print" onclick="Print()" />*@
+    <input type="button" value="Kot-Print" id="Printkot" style="padding: 10px 20px" class="btn btn-dark"/>
+    <select id="PaymentMode" class="PaymentMode" style="padding: 7px 20px 12px; background-color: darkgray">
+        <option>select </option>
+    </select>
+    @*<input type="button" id="Pendin" name="PendingButton" value="Pending" style="padding: 7px 22px;background-color: aliceblue" />*@
+    <span class="error">select serviceman</span>
+</div>
+
+
+<div class=" bg-primary"></div>
+
+@*<div id="Kot" style="display: none">
+
+    <div id="kotpage">
+
+        <h1>Eats And Repeat</h1>
+
+        <p id="Table"> </p>
+
+        <p id="Server"> </p>
+
+        <table id="KotItems">
+
+            <thead>
+            <tr>
+                <td>Name</td>
+                <td>Quantity</td>
+            </tr>
+
+            </thead>
+
+            <tbody></tbody>
+
+        </table>
+
+    </div>
+
+</div>*@
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/myJavaScripts.js"></script>
+<script src="~/Scripts/jQuery.print.js"></script>
+<script src="~/Scripts/MasterPaymentPage.js"></script>
+<script src="~/Scripts/PendingTables.js"></script>
+<style>
+    span.error {
+        display: block;
+        visibility: hidden;
+        color: red;
+        font-size: 90%;
+    }
+
+    tr.error {
+        background-color: rgba(255,0,0,0.35);
+    }
+</style>

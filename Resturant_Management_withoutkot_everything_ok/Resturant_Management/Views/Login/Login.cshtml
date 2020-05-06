@@ -1,0 +1,27 @@
+﻿@using Resturant_Management.Controllers
+@model Resturant_Management.Models.ServiceMan
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm("Login", "Login", new { ReturnUrl = Request.QueryString["ReturnUrl"] }, FormMethod.Post))
+{
+    <p>
+        @ViewBag.ErrorMessage
+    </p>
+    <label>UserId</label>
+    @Html.TextBoxFor(s => s.ServiceManId);
+    @Html.ValidationMessageFor(s => s.ServiceManId)
+
+
+    <label>Password</label>
+    @Html.PasswordFor(s => s.Password);
+    @Html.ValidationMessageFor(s => s.Password)
+    <input type="submit" class="btn btn-success" />
+}
+
+

@@ -1,0 +1,43 @@
+﻿@model Resturant_Management.Models.Item
+
+@{
+    ViewBag.Title = "AddItem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align: left">ADD-ITEM</h2>
+@using (Html.BeginForm("AddItem", "Bills"))
+{
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ItemId)
+        @Html.TextBoxFor(m => m.ItemId, new { @class = "form-control" })
+       
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ItemName)
+        @Html.TextBoxFor(m => m.ItemName,new {@class="form-control"})
+        @Html.ValidationMessageFor(m=>m.ItemName)
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ItemUnitPrice)
+        @Html.TextBoxFor(m => m.ItemUnitPrice,new {@class="form-control"})
+        @Html.ValidationMessageFor(m=>m.ItemUnitPrice)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DiscountRateOnUnitPrice.DiscountOnUnitPrice)
+        @Html.TextBoxFor(m => m.DiscountRateOnUnitPrice.DiscountOnUnitPrice, new { @class = "form-control" })
+
+    </div>
+
+    @Html.HiddenFor(m=>m.ItemId)
+    <div>
+         <input type="submit" value="Save"/>
+    </div>
+    
+}

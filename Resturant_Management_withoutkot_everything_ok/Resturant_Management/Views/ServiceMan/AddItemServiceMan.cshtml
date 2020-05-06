@@ -1,0 +1,104 @@
+﻿@model Resturant_Management.Models.ServiceMan
+@{
+    ViewBag.Title = "AddItemServiceMan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<h2 style="text-align: left">ADD-ServiceMan</h2>
+@using (Html.BeginForm("AddItemServiceMan", "ServiceMan"))
+{
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ServiceManId)
+        @Html.TextBoxFor(m => m.ServiceManId, new { @class = "form-control" })
+       
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m. ServiceManName)
+        @Html.TextBoxFor(m => m.ServiceManName,new {@class="form-control"})
+        @Html.ValidationMessageFor(m=>m.ServiceManName)
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ServiceAddress)
+        @Html.TextBoxFor(m => m.ServiceAddress,new {@class="form-control"})
+        @Html.ValidationMessageFor(m=>m.ServiceAddress)
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ServiceManCellPhoneNo)
+        @Html.TextBoxFor(m => m.ServiceManCellPhoneNo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ServiceManCellPhoneNo)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Salary)
+        @Html.TextBoxFor(m => m.Salary, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Salary)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.JoiningDate)
+        @Html.TextBoxFor(m => m.JoiningDate, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.JoiningDate)
+
+    </div>
+
+
+
+    {
+        List<SelectListItem> listItems = new List<SelectListItem>();
+        listItems.Add(new SelectListItem
+        {
+            Text = "Admin",
+            Value = "Admin"
+        });
+        listItems.Add(new SelectListItem
+        {
+            Text = "Manager",
+            Value = "Manager",
+            
+        });
+        listItems.Add(new SelectListItem
+        {
+            Text = "Serviceboy",
+            Value = "Serviceboy"
+        });
+
+        listItems.Add(new SelectListItem
+        {
+            Text = "kitchen",
+            Value = "Kitchen"
+        });
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Designation)
+            @Html.DropDownListFor(m => m.Designation, listItems,"Select Designation" ,new {@class = "form-control"})
+            @Html.ValidationMessageFor(m => m.Designation)
+
+        </div>
+    }
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Password)
+
+    </div>
+
+
+
+
+    @Html.HiddenFor(m=>m.ServiceManId)
+    <div>
+        <input type="submit" value="Save"/>
+    </div>
+    
+}

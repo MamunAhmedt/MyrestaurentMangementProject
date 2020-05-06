@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "GetDailySalesReport";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+
+<div class="container-fluid" id="Result">
+
+    <h2 style="text-align:center">SalesReport</h2>
+
+
+    <div>
+        <label>DateFrom</label>
+        <input type="date" id="DateFrom" class="form-control" />
+        
+
+    </div>
+
+
+    <div>
+        <label>DateTo</label>
+        <input type="date" id="DateTo" class="form-control" />
+       
+    </div>
+
+
+
+
+    <div style="padding:20px 10px">
+        <input type="button" value="Search" class="btn btn-info" onclick="GetSalesReport()">
+    </div>
+
+    <span class="error">Please Insert A valid Range Or No Order Found On This Date   </span>
+
+
+</div>
+
+
+<div>
+
+    <table class="table table-bordered table-hover" id="SearchResult">
+
+        <thead>
+            <tr>
+                <th><b>RECEIPT-ID</b></th>
+                <th><b>RECEIPT-N0</b></th>
+                <th><b>SERVICE-BOY-ID</b></th>
+                <th><b>TABLE-NO</b></th>
+                <th><b>NET-AMOUNT</b></th>
+                <th><b>DATE-&-TIME</b></th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+           
+            
+
+        </tbody>
+
+     
+
+    </table>
+
+    <div id="TableFooter">
+
+        <label>OrderCount: </label>
+        <input type="text" class="form-control" readonly id="OrderCount" />
+
+
+        <label>TotalAmount: </label>
+        <input type="text" class="form-control" readonly id="Total" />
+
+    </div>
+
+
+</div>
+
+
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/myJavaScripts.js"></script>
+
+<style>
+    span.error {
+        display: block;
+        visibility: hidden;
+        color: red;
+        font-size: 90%;
+    }
+
+    tr.error {
+        background-color: rgba(255,0,0,0.35);
+    }
+</style>

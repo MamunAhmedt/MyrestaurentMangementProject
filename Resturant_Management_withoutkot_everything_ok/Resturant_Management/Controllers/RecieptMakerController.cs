@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace Resturant_Management.Controllers
+{
+    public class RecieptMakerController : Controller
+    {
+        
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult RecieptMaker()
+        {
+            
+            return View();
+        }
+    }
+
+
+}

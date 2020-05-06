@@ -1,0 +1,58 @@
+:root {
+    --primary-color: #ff0000;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #999;
+    background: #4323fa;
+}
+/*======================================================================================
+                                        TABS
+========================================================================================*/
+.tab-border {
+    border-bottom: solid 4px var(--primary-color);
+}
+
+
+/*======================================================================================
+                                    TAB CONTENT
+========================================================================================*/
+/* Hide content initially */
+#tab-1-content,
+#tab-2-content,
+#tab-3-content {
+    display: none;
+}
+
+.show {
+    display: block !important;
+}
+
+.btn {
+    border-radius: 0;
+    border: 0;
+}
+
+.form-control:focus, .btn:focus {
+    box-shadow: none !important;
+}
+.btn:active {
+    box-shadow: none !important;
+}
+
+.btn-block {
+    padding: .5rem 0;
+}
+
+.modal {
+    /* background: #4323fa; */
+}
+

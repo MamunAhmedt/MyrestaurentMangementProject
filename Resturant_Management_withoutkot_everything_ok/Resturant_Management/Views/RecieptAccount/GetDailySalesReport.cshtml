@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "GetDailySalesReport";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+
+<div class="container-fluid">
+
+    <h2 style="text-align:center">SalesReport</h2>
+
+
+    <div>
+        <label>Date-From</label>
+        <input type="date" id="DateFrom" class="form-control" />
+    </div>
+
+  
+    <div>
+        <label>Date-To</label>
+        <input type="date" id="DateTo"  class="form-control"/>
+    </div>
+
+
+
+
+    <div style="padding:20px 10px">
+        <input type="button" value="Search" class="btn btn-info" onclick="GetSalesReport()">
+    </div>
+
+
+
+
+</div>
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/myJavaScripts.js"></script>
+

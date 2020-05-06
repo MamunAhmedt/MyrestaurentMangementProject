@@ -1,0 +1,161 @@
+﻿@model Restarent.Models.Person 
+
+<div class="row">
+
+    <div class="col-md-12">
+
+        <form id="myForm1" asp-action="Try">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="FName form-control" id="fName" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="LName form-control" id="lName" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Regular post" class="btn btn-primary my-1 col-sm-3" /> - This button is the regular non-ajax submit<br />
+                <input type="button" id="btnFormAjax" value="Create ajax" class="btn btn-primary my-1 col-sm-3" /> - Ajax POST using regular content type: 'application/x-www-form-urlencoded' (non-JSON)<br />
+                <input type="button" id="btnFormAjaxJson" value="Create ajax json" class="btn btn-primary my-1 col-sm-3" /> - Ajax POST using JSON (content type: 'application/json')<br />
+                <input type="button" id="btnFormAjaxJsonComplexType" value="Create ajax json complex type" class="btn btn-primary my-1 col-sm-3" /> - Ajax POST of a more complex type using JSON (content type: 'application/json')<br />
+                <input type="button" id="send" value="send" class="btn btn-primary my-1 col-sm-3" /> - send<br />
+                <input type="button" id="btnFormAjaxJsonMultipleComplexTypes" value="Ajax json multiple complex types" class="btn btn-primary my-1 col-sm-3" /> - Ajax POST of multiple complex types using JSON (content type: 'application/json')<br />
+            </div>
+        </form>
+        <div>
+            <table class="table" id="show">
+
+                <tr>
+                    <th>first Name</th>
+                    <th>last name</th>
+                </tr>
+
+
+            </table>
+        </div>
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(function () {
+            'use strict';
+
+            var myForm = $('form');
+
+            $('#btnFormAjaxJsonComplexType').on('click', function () {
+
+                var FName = $('#fName').val();
+                var LName = $('#lName').val();
+                // var x = $('#fName,#lName').val();
+
+
+                // var FullName = { SeveralPeople: [x] };
+
+                var FullName = '<tr><td class="FName">' + FName + '</td><td class="LName">' + LName + '</td><td>' + '<input type="button" value="Remove" class="remove btn-danger form-control"/>' + '</td></tr>';
+                $('#show tbody').append(FullName);
+
+                $('#fName,#lName').val('');
+
+
+                $('#show').on('click', '.remove', function () {
+                    // RemoveItemTotal = parseInt($(this).closest("tr").find('td:eq(4)').text());
+                    $(this).parents('tr').remove();
+
+                });
+
+                $('#send').on('click', function () {
+
+                    $('#show tbody tr').each(function (e) {
+                        var list = [];
+                        var xName = {
+                            FName: $('.FName', this).text(),
+                            LName: $('.LName', this).text(),
+                        }
+                        list.push(xName);
+
+                        var data = {
+                            xName: list
+                        }
+
+
+                        $.ajax({
+                            url: "/expenses/try",
+                            type: 'POST',
+                            beforeSend: function (xhr) {
+                                xhr.setRequestHeader("RequestVerificationToken",
+                                    $('input:hidden[name="__RequestVerificationToken"]').val());
+                            },
+                            dataType: 'json',
+                            contentType: 'application/json; charset=utf-8',
+                            data: JSON.stringify(data)
+                        }).done(function (result) {
+                            alert(result.Count)
+                        });
+                    });
+                });
+            });
+        });
+    </script>
+}
+
+
+@*$('#btnFormAjax').on('click', function () {
+
+        if (myForm.valid()) {
+            var first = $('#FirstName').val();
+            var last = $('#LastName').val();
+            var data = { FirstName: first, LastName: last };
+
+            $.ajax({
+                url: '@Url.Action("CreateAjaxForm")',
+                type: 'POST',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader("RequestVerificationToken",
+                        $('input:hidden[name="__RequestVerificationToken"]').val());
+                },
+                data: data
+            }).done(function (result) {
+                alert(result.FullName);
+            });
+        }
+
+    });*@
+
+
+@* form ajax with json
+    $('#btnFormAjaxJson').on('click', function () {
+
+        if (myForm.valid()) {
+            var first = $('#FirstName').val();
+            var last = $('#LastName').val();
+            var data = { FirstName: first, LastName: last };
+
+            $.ajax({
+                url: '@Url.Action("CreateAjaxFormJson")',
+                type: 'POST',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader("RequestVerificationToken",
+                        $('input:hidden[name="__RequestVerificationToken"]').val());
+                },
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify(data)
+            }).done(function (result) {
+                alert(result.FullName)
+            });
+        }
+
+    });*@

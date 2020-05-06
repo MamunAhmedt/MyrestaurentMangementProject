@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Resturant_Management.Models.PaymentMethods>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>PaymentModes</h2>
+<table class="table table-bordered table-hover">
+    
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>NAME</th>
+        
+    </tr>
+
+    </thead>
+    
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.PaymentMode </td>
+            <td style="text-align: center;font-size: 20px">@Html.ActionLink("+","EditItem","Bills",new { id=item.Id},"") </td>
+
+
+        </tr>
+    }
+
+    </tbody>
+
+</table>

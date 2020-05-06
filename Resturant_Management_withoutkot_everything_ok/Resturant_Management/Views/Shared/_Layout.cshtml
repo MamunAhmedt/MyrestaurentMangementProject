@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+      
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>  
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               
+            </div>
+            <div class="navbar-collapse collapse">
+                
+                @if (User.Identity.IsAuthenticated)
+                {
+                    if (User.Identity.Name=="Admin")
+                    {
+                        <ul class="nav navbar-nav">
+                            @Html.ActionLink("Eats & Repeat", "DashBoard", "RecieptAccount", new { area = "" }, new { @class = "navbar-brand" })
+                            @**<li>@Html.ActionLink("ProductList", "Product", "Bills")</li>*@
+                            <li>@Html.ActionLink("Add-New-Item", "AddItem", "Bills")</li>
+                            <li>@Html.ActionLink("ServicemanList", "ServiceMan", "ServiceMan")</li>
+                            <li>@Html.ActionLink("Add-New-serviceMan", "AddItemServiceMan", "ServiceMan")</li>
+                            <li>@Html.ActionLink("New-Order", "RecieptPage", "Reciept")</li>
+                            <li>@Html.ActionLink("ShowOverAllSales", "Index", "RecieptAccount")</li>
+                            <li>@Html.ActionLink("SearchSalesReport", "SearchSalesReport", "RecieptAccount")</li>
+                        </ul>
+                    }
+                     else if (User.Identity.Name == "Manager")
+                    {
+                        <ul class="nav navbar-nav">
+                            <li>@Html.ActionLink("Add-New-Item", "AddItem", "Bills")</li>
+                            <li>@Html.ActionLink("ServicemanList", "ServiceMan", "ServiceMan")</li>
+                            <li>@Html.ActionLink("New-Order", "RecieptPage", "Reciept")</li>
+                            <li>@Html.ActionLink("ShowOverAllSales", "Index", "RecieptAccount")</li>
+                            <li>@Html.ActionLink("SearchSalesReport", "SearchSalesReport", "RecieptAccount")</li>
+
+                        </ul>
+                    }
+                    else if (User.Identity.Name == "Serviceboy")
+                    {
+                        <ul class="nav navbar-nav">
+                            <li>@Html.ActionLink("New-Order", "RecieptPage", "Reciept")</li>
+                            
+                        </ul>
+                    }
+                    else
+                    {
+                        
+                    }
+                    
+                  
+                    @Html.Partial("_LoginPartial")
+                    
+
+                }
+                
+               
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Wings Soft Creation</p>
+        </footer>
+    </div>
+
+   
+</body>
+</html>
